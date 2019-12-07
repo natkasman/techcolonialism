@@ -1,0 +1,3 @@
+# techcolonialism
+Technological Colonialism
+
